@@ -1,0 +1,32 @@
+.column-2 {
+  width: 50%;
+  float: left;
+}
+.column-1 {
+  width: 25%;
+  float: left;
+}
+
+.equations {
+  display: block;
+}
+
+.calc-button {
+  width: 100%;
+  height: 80px;
+  border: 2px solid #ddd;
+  background: #eee;
+  font-size: larger;
+}
+
+.result {
+  width: 97.5%;
+  height: 70px;
+}
+
+.equations {
+  width: 100%;
+  height: 100%;
+  font-size: larger;
+  text-align: right;
+}
