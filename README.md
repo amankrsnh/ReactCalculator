@@ -1,2 +1,2 @@
 # ReactCalculator
-It's just a simple project ,to practice .It is amde with React js.
+It's just a simple project ,to practice .It is made with React js.
